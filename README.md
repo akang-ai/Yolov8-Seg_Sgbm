@@ -4,3 +4,5 @@
 2、v8-seg-Sgbm是专门用于水下（添加了红通道补偿），v8-seg-Sgbm2用于陆上。
 3、水下实例分割的模型是我自己训练的，要想在你的场景下适用必须训练自己的模型。
 
+陆上推理
+![Image](https://github.com/user-attachments/assets/8dfce9ed-85ba-47b4-b1d3-f9a75fdb3912)
