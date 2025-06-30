@@ -6,7 +6,7 @@
 
 3、水下实例分割的模型是我自己训练的，要想在你的场景下适用必须训练自己的模型。
 
-4、水下推理的视频由于过大，放不上来，给出链接：
+4、水下推理的视频由于过大，放不上来，给出链接：https://drive.google.com/file/d/1-z55AdWyPgaeqZ4gEjrX88vPWi9lEPIn/view?usp=drive_link    
 
 陆上推理
 
