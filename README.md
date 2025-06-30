@@ -3,3 +3,4 @@
 1、这个仓库是使用Yolov8-Seg实例分割算法和Sgbm深度估计算法结合的例子，可以作为智能小车，无人机，水下航行器导航的视觉识别部分，为基于深度学习的避障导航作为参考。
 2、v8-seg-Sgbm是专门用于水下（添加了红通道补偿），v8-seg-Sgbm2用于陆上。
 3、水下实例分割的模型是我自己训练的，要想在你的场景下适用必须训练自己的模型。
+https://drive.google.com/file/d/1q96JtOoEyE-Bv1pTXGkqisvgJw3eexFi/view?usp=drive_link
